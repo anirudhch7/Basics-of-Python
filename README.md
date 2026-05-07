@@ -85,14 +85,6 @@ If you’d like to contribute:
 2. Create a feature branch
 3. Submit a pull request
 
-## License
-
-Add a license if you want others to reuse your work confidently. Common choices:
-- MIT License (very permissive)
-- Apache 2.0
-- GPL v3
-
-> If you haven’t decided yet, you can add an MIT license later.
 
 ## Author
 

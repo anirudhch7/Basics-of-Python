@@ -2,7 +2,6 @@
 
 A beginner-friendly collection of **Python basics** explained through **Jupyter Notebooks**. This repository is intended for learners who want clear examples and hands-on practice with core Python concepts.
 
-
 ## Contents
 
 This repo contains Jupyter Notebooks covering fundamental topics such as:
